@@ -20,7 +20,8 @@
   chapters/              # 分章书稿 md
   code/                  # 每章可跑 Python 案例
   experiments/           # 实验清单与实测记录
-  art-briefs/            # 插图位说明（后做）
+  art-briefs/            # 每章插图的画面说明（brief）
+  art/                   # 全书漫画插图与角色设定图
 ```
 
 设计源：`/workspace/plans/kids-python-book/2026-11-02-设计要点.md`  
@@ -32,7 +33,9 @@
 
 ## 插图说明
 
-本阶段**只写文稿与插图位说明**，不出成品漫画图。流程图用 mermaid 占位，正式出版再换成漫画图。
+全书漫画插图（80 张分镜加一张角色设定图 `art/characters.png`）已经放在 `art/` 下，并按画面嵌进了各章书稿；清单见 `art/README.md`。
+
+![角色设定：主角小朋友、会说话的电脑、小海龟和 Python 小蛇](art/characters.png)
 
 ## 完成度
 
