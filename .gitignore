@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .DS_Store
 code/ch11/diary.txt
+code/ch16/receipt.txt
